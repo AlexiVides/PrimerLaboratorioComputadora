@@ -9,7 +9,7 @@ namespace Computadora.Entidades
     class ClsComputadora
     {
         private int memoria_ram;
-        private String procesador;
+        private int procesador;
         private String dico_duro;
         private String placa_madre;
         private String disipador_calor;
@@ -21,7 +21,7 @@ namespace Computadora.Entidades
         private String audio;
 
         public int Memoria_ram { get => memoria_ram; set => memoria_ram = value; }
-        public string Procesador { get => procesador; set => procesador = value; }
+        public int Procesador { get => procesador; set => procesador = value; }
         public string Dico_duro { get => dico_duro; set => dico_duro = value; }
         public string Placa_madre { get => placa_madre; set => placa_madre = value; }
         public string Disipador_calor { get => disipador_calor; set => disipador_calor = value; }
