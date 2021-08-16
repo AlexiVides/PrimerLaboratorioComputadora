@@ -5,3 +5,10 @@ C:\Users\alexi\Documents\GitHub\PrimerLaboratorioComputadora\Computadora\Computa
 C:\Users\alexi\Documents\GitHub\PrimerLaboratorioComputadora\Computadora\Computadora\obj\Debug\Computadora.csproj.CoreCompileInputs.cache
 C:\Users\alexi\Documents\GitHub\PrimerLaboratorioComputadora\Computadora\Computadora\obj\Debug\Computadora.exe
 C:\Users\alexi\Documents\GitHub\PrimerLaboratorioComputadora\Computadora\Computadora\obj\Debug\Computadora.pdb
+C:\Users\ns_al\Documentos\GitHub\PrimerLaboratorioComputadora\Computadora\Computadora\bin\Debug\Computadora.exe.config
+C:\Users\ns_al\Documentos\GitHub\PrimerLaboratorioComputadora\Computadora\Computadora\bin\Debug\Computadora.exe
+C:\Users\ns_al\Documentos\GitHub\PrimerLaboratorioComputadora\Computadora\Computadora\bin\Debug\Computadora.pdb
+C:\Users\ns_al\Documentos\GitHub\PrimerLaboratorioComputadora\Computadora\Computadora\obj\Debug\Computadora.csproj.AssemblyReference.cache
+C:\Users\ns_al\Documentos\GitHub\PrimerLaboratorioComputadora\Computadora\Computadora\obj\Debug\Computadora.csproj.CoreCompileInputs.cache
+C:\Users\ns_al\Documentos\GitHub\PrimerLaboratorioComputadora\Computadora\Computadora\obj\Debug\Computadora.exe
+C:\Users\ns_al\Documentos\GitHub\PrimerLaboratorioComputadora\Computadora\Computadora\obj\Debug\Computadora.pdb
