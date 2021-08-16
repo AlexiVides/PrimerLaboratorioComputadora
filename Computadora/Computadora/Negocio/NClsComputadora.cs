@@ -21,5 +21,10 @@ namespace Computadora.Negocio
         {
             return "Cargando pagina";
         }
+
+        public String EncenderComputadora(ClsComputadora computadora)
+        {
+            return "La computadora con memoria RAM de " + computadora.Memoria_ram + " y micro procesador " + computadora.Procesador + " esta encendida";
+        }
     }
 }
